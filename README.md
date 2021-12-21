@@ -28,3 +28,11 @@ plants переназови папку и репозиторй
 
 
 запускаешь rose = Plant.new('Red rose') в файле run.rb
+
+bundle init
+
+bundle install
+
+bundle lock
+
+bundle install --relock
